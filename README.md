@@ -12,21 +12,7 @@ Email: harikrishnank497@gmail.com
 Location: Kasaragod, Kerala
 LinkedIn: linkedin.com/in/harikrishnankofficial
 
-Education:
-- APJ Abdul Kalam Technological University
-  B tech in Mechanical Engineering
-  Completed in 2021 with a CGPA of 7.02
-
-- Swami Nithyananda Polytechnic College
-  Diploma in Mechanical Engineering
-  Completed in 2018 with a CGPA of 8.84
-
-- GHSS Balanthode
-  Bio Science
-  Completed in 2015 with a percentage of 86
-
 Skills:
-Hard Skills:
 - Python
 - Machine Learning
 - Deep Learning
