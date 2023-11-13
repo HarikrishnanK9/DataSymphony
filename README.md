@@ -10,9 +10,9 @@ Dynamic and motivated person aspiring to work in an organization with committed 
 Contact:
 Email: harikrishnank497@gmail.com
 
-- Location: Kasaragod, Kerala
-
-- Credly Link: credly.com/users/harikrishnan-k-official/badges
+- Location:India
+- 
+- Credly: credly.com/users/harikrishnan-k-official/badges
 
 - LinkedIn: linkedin.com/in/harikrishnankofficial
 
