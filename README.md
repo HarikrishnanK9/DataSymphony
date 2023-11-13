@@ -11,7 +11,7 @@ Contact:
 Email: harikrishnank497@gmail.com
 
 - Location:India
-- 
+  
 - Credly: credly.com/users/harikrishnan-k-official/badges
 
 - LinkedIn: linkedin.com/in/harikrishnankofficial
