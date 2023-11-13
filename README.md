@@ -10,7 +10,6 @@ Dynamic and motivated person aspiring to work in an organization with committed 
 Contact:
 Email: harikrishnank497@gmail.com
 Location: Kasaragod, Kerala
-Phone: 9207628011
 LinkedIn: linkedin.com/in/harikrishnankofficial
 
 Education:
