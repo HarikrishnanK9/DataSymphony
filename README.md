@@ -36,41 +36,6 @@ Hard Skills:
 - Spark
 - AWS, MYSQL
 
-Soft Skills:
-- Observation
-- Decision making
-- Communication
-- Multi-tasking
-
-Work Experience:
-- Indus Motors Pvt Ltd, Mavungal
-  Trainee Operator Trainee
-  2017-2017
-  Developed proficiency in Python, AI, ML, DL, PowerBI, BigData tools
-
-- Luminar Technolab, Kakkanad
-  Internship
-  2019-2019
-  Machine Learning with Python
-  Python for Data Science
-  Industry 4.0 and Smart Manufacturing
-  Modern Optimization Techniques in Science and Engineering
-
-Projects:
-1. Personalized Medical Recommendation System
-   - Objective: Personalized medical recommendation based on grouping people with similar medical conditions and Identifying hidden trends, patterns within the dataset.
-   - Techniques used: Data Wrangling, EDA, Encoding, PCA, KMeans Clustering, Cluster Analysis, Classification, DecisionTree, RandomForest, Catboost, XGBoost, LGBM
-
-2. Sales and Profit Analysis Dashboard
-   - Objective: Created 2 Dashboards. One for Profit and Sales Analysis, Another one for Loss Analysis.
-
-3. Deep Learning Projects
-   - Health Profile Analysis: Revealing Disorder Patterns, Medication Guidance, and Risk Classification
-   - Dashboard for Global Superstore
-   - Tomato Leaf Disease Identification
-   - Pneumonia detection from X-ray films
-   - Sudoku Solver
-
 GitHub: github.com/HarikrishnanK9
 Credly Link: credly.com/users/harikrishnan-k-official/badges
 
